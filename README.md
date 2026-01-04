@@ -9,9 +9,9 @@
 
 4 - Criar uma nova Branch; [ x ]
 
-5 - Realizar um Pull Request e Merge; [  ]
+5 - Realizar um Pull Request e Merge; [ x ]
 
-6 - Criar o nosso primeiro Fork; [  ]
+6 - Criar o nosso primeiro Fork; [ x ]
 
 
 arquivo alterado para teste da branch
