@@ -14,7 +14,7 @@
 6 - Criar o nosso primeiro Fork; [ x ]
 
 
-novo teste do git
+fazendo o procedimento novamente
 
 
 
