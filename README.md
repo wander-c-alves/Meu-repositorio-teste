@@ -14,7 +14,7 @@
 6 - Criar o nosso primeiro Fork; [ x ]
 
 
-fazendo o procedimento novamente
+
 
 
 
